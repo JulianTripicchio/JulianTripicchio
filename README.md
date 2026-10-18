@@ -30,16 +30,19 @@ Im 21 years old. I am looking for new knowledge and improving that already acqui
 <img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="haskell" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg"/>
 <img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="html "src="https://github.com/devicons/devicon/raw/v2.15.1/icons/html5/html5-original.svg"/>
 <img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="cpp "src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg"/>
+<img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="cpp "src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"/>  
 </div>
-  
-<br/>
+
+<h1>🔧Tools</h1>
+<div>
+<img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="C" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg"/>
+<img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="C" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg"/>
+<img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="C" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"/>
+<img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="C" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+<img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="C" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg"/>
+</div>
 
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
-
-<h1> IDE's </h1>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
  <h1>📫Contact</h1>
 
