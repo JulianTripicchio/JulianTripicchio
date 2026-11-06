@@ -56,8 +56,8 @@ Im 21 years old. I am looking for new knowledge and improving that already acqui
 
 <p>
 <a href="https://github.com/AVS1508">
-   <img style ="display: inline-block; vertical-align: middle;" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulianT52&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img style ="display: inline-block; vertical-align: middle;" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulianT52&layout=compact&langs_count=8&theme=algolia"/>
+   <img style ="display: inline-block; vertical-align: middle;" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulianTripicchio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img style ="display: inline-block; vertical-align: middle;" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulianTripicchio&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
  
