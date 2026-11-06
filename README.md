@@ -41,6 +41,7 @@ Im 21 years old. I am looking for new knowledge and improving that already acqui
 <img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="C" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 <img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="C" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg"/>
 </div>
+<br>
 
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
 
